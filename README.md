@@ -191,4 +191,4 @@ This repository serves as the official landing page for HELLCARD. The software i
 **Get the most recent version of HELLCARD today!**
 
 ---
-**Last updated:** 2026-11-14 11:49:37 UTC
+**Last updated:** 2026-11-14 17:22:53 UTC
